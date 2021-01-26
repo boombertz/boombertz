@@ -1,7 +1,9 @@
-### Hi there 🤙
+### Hi there 👀
 
 I'm Hebert Marchesi also known as Bertz, a self-taught visual designer and front-end developer, not award-winning (don't worry), currently living in Brazil.
-I started to learn the *React family* (ReactJS & React Native), NodeJS and the tech things around that.
+I started to learn the *React family* (ReactJS & React Native), NodeJS and the tech things around that.<br/>
+
+Stay in touch 🤙
 
 <img src="http://bertz.co/assets/images/logo.svg" width="80"/>
 <!--
